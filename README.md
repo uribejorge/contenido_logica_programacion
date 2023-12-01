@@ -33,10 +33,10 @@ plugins:
 
 title: Documentación
 
-nombres: Nombres y Apellidos
+nombres: jorge uribe
 submodulo: Lógica de Programación
 periodo: 2023-2
-url_foto:  Enlace a la imagen
+url_foto: https://firebasestorage.googleapis.com/v0/b/imagenes-e192b.appspot.com/o/imagen%20jorge%20uribe%20jpeg.jpg?alt=media&token=59e3d70c-68b2-48e9-8ecc-7e92773fbe6e
 ```
 
 ### 3. Actualizar contenido
