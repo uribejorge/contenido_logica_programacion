@@ -34,7 +34,6 @@ valor es el valor que se quiere asignar al elemento.
 Por ejemplo, el siguiente código asigna los valores 1, 2, 3, 4, 5, 6, 7, 8, 9 y 10 a los elementos del array numeros:
 
 ```
-
 numeros[0] = 1;
 numeros[1] = 2;
 numeros[2] = 3;
@@ -59,14 +58,12 @@ Para obtener el valor de un elemento de un array, se puede utilizar la siguiente
 Por ejemplo, el siguiente código imprime el valor del elemento 5 del array numeros:
 
 ```
-
 int valor = numeros[5];
 System.out.println(valor);
 
 ```
 
 Además de la forma que se mencionó anteriormente, hay otra forma de inicializar un array en Java utilizando un inicializador de array. Un inicializador de array es una lista de valores separados por comas que se utiliza para inicializar los elementos de un array.
-
 ## La sintaxis de un inicializador de array es la siguiente:
 
 
