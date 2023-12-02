@@ -6,6 +6,7 @@
 
 <!-- Su documentación aquí -->
 
+
 Arrays en Java
 Un array en Java es una estructura de datos que permite almacenar una colección de elementos, todos del mismo tipo, en una única variable. Los arrays en Java son de tamaño fijo, lo que significa que una vez creados, no se pueden cambiar en tamaño.
 
@@ -232,5 +233,4 @@ public class EjemploMatrices {
         System.out.println("Elemento en la fila 1, columna 1: " + elemento);
     }
 }
-
 

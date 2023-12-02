@@ -6,6 +6,7 @@
 
 <!-- Su documentación aquí -->
 
+
 Métodos en Java
 En Java, una función se llama método y es una sección de código que realiza una tarea específica y puede ser invocada (llamada) desde otras partes del programa. Los métodos pueden tener parámetros de entrada y pueden devolver un valor como resultado.
 
@@ -166,7 +167,6 @@ public int sumarArreglo(int[] arreglo) {
 }
 
 En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que representa un arreglo de números enteros. Si el arreglo es nulo o vacío, se devuelve 0. De lo contrario, se utiliza un ciclo for para recorrer cada elemento del arreglo y sumarlos. La variable suma se inicializa en 0 y en cada iteración del ciclo for, se le suma el valor del elemento del arreglo. Finalmente, se devuelve la variable suma que contiene la suma total de los elementos del arreglo.
-
 
 
 
